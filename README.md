@@ -9,14 +9,12 @@
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **Mobile development with Flutter, Kotlin , Java**  
- 
- 🌱 I’m currently learning **Mobile Development,AI, web scraping and .....**  
- 💬 Ask me about **Flutter, Python, scraping, or anything [here](https://github.com/Varundeep111/Varun111/issues)**  
- ⚡ Fun fact **Coding is like poetry; every line tells a story!**  
- </div>
- 
+    <h3>🔭 I’m currently working on <strong>Mobile development with Flutter, Kotlin, Java</strong></h3>
+    <h3>🌱 I’m currently learning <strong>Mobile Development, AI, web scraping and .....</strong></h3>
+    <h3>💬 Ask me about <strong>Flutter, Python, scraping, or anything <a href="https://github.com/Varundeep111/Varun111/issues">here</a></strong></h3>
+    <h3>⚡ Fun fact: <strong>Coding is like poetry; every line tells a story!</strong></h3>
+</div>
+
 <div align="center"> 
   <a href="mailto:Varun111guliani@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -41,21 +39,12 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Varundeep111/Varundeep111/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Varundeep111&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=390 src="https://github-readme-streak-stats.demolab.com?user=Varundeep111&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://streak-stats.demolab.com?user=Varundeep111&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Varundeep111&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
